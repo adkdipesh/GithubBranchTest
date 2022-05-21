@@ -29,6 +29,8 @@ a = complex(5,6)
 b = complex(1.11,9.999)
 c = complex(99,100.00)
 print(a,b,c)
+d = 2j
+print(d)
 
 #string type
 a = 'This is string type'
