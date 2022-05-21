@@ -49,7 +49,7 @@ print('a=',a)
 a += 5      # a = a + 5
 print('a += 5 =',a)
 
-a =+ 10      # a = +5 ie. a = 10
+a =+ 10      # a = +10 ie. a = 10
 print('a =',a)
 print('a =+ 5 =',a)
 # Error: a++  -> Python donot allow increment/decrement operator, unlike c,c++/Java/Javascript
