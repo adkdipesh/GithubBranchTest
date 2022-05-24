@@ -9,7 +9,7 @@
 
 # - must be single word, consisting letters/numbers/_
 # - cannot begin with number
-# - Variables in Python which start with _ (underscore) are considered as “Unuseful”
+# - Variables in Python which start with _ (underscore) are considered as “Unuseful” ie. should not be used again in the code
 
 
 # Examples:
