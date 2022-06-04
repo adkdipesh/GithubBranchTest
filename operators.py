@@ -25,9 +25,9 @@
 
 
 # Arithmetic operators
-# /     (Modulus-Returns FLoat whatsoever in whole number)
+# /     (Division-Returns FLoat whatsoever in whole number)
 # //    (Floored Division - Returns quotient in whole number)
-# %     (Remainder - Returns Remainder)
+# %     (Remainder/Modulus - Returns Remainder)
 # **    (Exponent - left operand raised to the power of right)
 
 print('5 + 2 =',5+2)
